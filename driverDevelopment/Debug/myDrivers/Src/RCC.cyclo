@@ -1,0 +1,4 @@
+../myDrivers/Src/RCC.c:9:10:RCC_GetSystemClock	3
+../myDrivers/Src/RCC.c:29:10:RCC_GetHClock	1
+../myDrivers/Src/RCC.c:49:10:RCC_GetPClock1	1
+../myDrivers/Src/RCC.c:68:10:RCC_GetPClock2	1
